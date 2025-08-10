@@ -43,7 +43,7 @@
 
 * **Simple Controls**
 
-  * Smooth left and right movement with keyboard and on-screen buttons.
+  * Smooth left and right movement with keyboard and on screen buttons.
 
 * **Custom Rendering**
 
