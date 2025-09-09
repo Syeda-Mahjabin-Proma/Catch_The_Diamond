@@ -1,4 +1,4 @@
-# 🔷 Catch the Diamonds (Python OpenGL Game)
+# 🔷 Catch The Diamonds (Python OpenGL Game)
 
 ## Overview
 
