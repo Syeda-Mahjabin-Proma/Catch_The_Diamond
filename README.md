@@ -56,7 +56,7 @@
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/your-username/catch-the-diamonds.git
+   git clone https://github.com/Syeda-Mahjabin-Proma/catch-the-diamonds.git
    cd catch-the-diamonds
    ```
 
