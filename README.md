@@ -56,8 +56,8 @@
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/Syeda-Mahjabin-Proma/catch-the-diamonds.git
-   cd catch-the-diamonds
+   git clone https://github.com/Syeda-Mahjabin-Proma/Catch-The-Diamonds.git
+   cd Catch-The-Diamonds
    ```
 
 2. **Install dependencies**
